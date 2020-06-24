@@ -10,4 +10,4 @@ export default {
   component: <%= name %>
 }
 
-export const Default () => <<%= name %>>DEFAULT</<%= name %>>
+export const Default = () => <<%= name %>>DEFAULT</<%= name %>>
