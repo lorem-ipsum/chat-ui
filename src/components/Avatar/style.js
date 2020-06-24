@@ -52,4 +52,4 @@ const AvatarImage = styled.img`
 
 export default StyledAvatar
 
-export { StatusIcon as StatusIcon, AvatarClip, AvatarImage }
+export { StatusIcon, AvatarClip, AvatarImage }
