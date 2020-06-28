@@ -9,7 +9,7 @@ export default {
   component: NavBar
 }
 
-export const Default = () => <NavBar>DEFAULT</NavBar>
+export const Default = () => <NavBar />
 
 export const Menu = () => {
   return (
